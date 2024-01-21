@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: chocolate;
+}
+.title {
+    color: black;
+}
+.pic   {
+background-image: -moz-linear-gradient();
+}
+
+.title.blueberry{
+    color: blueviolet;
+}
+.title.meat{
+    color: brown;
+}
+.title.smoothie{
+    color:yellow;
+}
+.title.lasagna{
+    color: red;
+}
