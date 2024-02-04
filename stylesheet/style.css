@@ -1,6 +1,11 @@
-body{
-    color: white;
-    background-color: chocolate;
+*{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+.Preptime{
+    display: block;
+    
 }
 .title {
     color: black;
@@ -9,15 +14,15 @@ body{
 background-image: -moz-linear-gradient();
 }
 
-.title.blueberry{
+.recipe.blueberry{
     color: blueviolet;
 }
-.title.meat{
+.recipe.meat{
     color: brown;
 }
-.title.smoothie{
+.recipe.smoothie{
     color:yellow;
 }
-.title.lasagna{
+.recipe.lasagna{
     color: red;
 }
