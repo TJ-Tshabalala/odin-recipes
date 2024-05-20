@@ -1,1 +1,3 @@
-This project is from the odin project and is the first site in where I will be creating a website, using HTML,CSS & JavaScript, the first part of this project will be me creating it only in HTML and then adding the other languages along the way
+Odin-recipe Project.
+Brutal Website design
+Using mostly HTML and CSS.
